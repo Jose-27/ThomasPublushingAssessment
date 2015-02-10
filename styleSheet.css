@@ -407,6 +407,11 @@ footer li {
     -webkit-transform:rotate(0);
     -o-transform:rotate(0);
   }
+  section li{
+  	display: block;
+  	text-align: center;
+  	margin-left: 0!important;
+  }
 }
 /***====================================================
           for bigger screens 
